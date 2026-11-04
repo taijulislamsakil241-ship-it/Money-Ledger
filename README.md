@@ -1,0 +1,1 @@
+Money Ledger is a smart and simple financial management app to track income, expenses, savings, and balances in multiple currencies. Manage transactions, monitor cash flow, organize accounts, and view detailed financial summaries. Keep all your money records secure, accurate, and organized in one place.
