@@ -1,0 +1,12 @@
+{
+  "name": "Money Ledger",
+  "short_name": "Ledger",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f1638",
+  "theme_color": "#0f1638",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
